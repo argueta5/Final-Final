@@ -1,0 +1,53 @@
+/* src/styles/custom.css */
+
+/* General Styles */
+body {
+    background-color: #f8f9fa; /* Light background for contrast */
+}
+
+/* Bootstrap Overrides */
+.bg-primary {
+    background-color: #e83e8c !important; /* Pink color for primary background */
+}
+
+.text-primary {
+    color: #e83e8c !important; /* Pink color for primary text */
+}
+
+.btn-primary {
+    background-color: #e83e8c;
+    border-color: #e83e8c;
+}
+
+.btn-primary:hover {
+    background-color: #d63384;
+    border-color: #d63384;
+}
+
+.bg-success {
+    background-color: #28a745 !important; /* Green color for success background */
+}
+
+.text-success {
+    color: #28a745 !important; /* Green color for success text */
+}
+
+/* Layout and Spacing */
+.container {
+    margin-top: 20px; /* Add margin to top of container for spacing */
+}
+
+.form-group {
+    margin-bottom: 15px; /* Add margin to bottom of form groups for spacing */
+}
+
+/* Header and Footer */
+.header, .footer {
+    background-color: #343a40; /* Dark background for header and footer */
+    color: white; /* White text color for better contrast */
+    padding: 20px 0; /* Vertical padding for header and footer */
+}
+
+.footer {
+    margin-top: 20px; /* Add margin to top of footer for spacing */
+}

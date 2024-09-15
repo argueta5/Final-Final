@@ -1,0 +1,41 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 25,
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "age": 40,
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "name": "sd,mfnsd",
+      "age": 2,
+      "id": 4
+    },
+    {
+      "name": "ert",
+      "age": 1,
+      "email": "dsfljsd@gmail.com",
+      "id": 5
+    }
+  ],
+  "therapists": [
+    {
+      "name": "ert",
+      "specialization": "sdf",
+      "id": 7
+    }
+  ],
+  "appointments": []
+}
